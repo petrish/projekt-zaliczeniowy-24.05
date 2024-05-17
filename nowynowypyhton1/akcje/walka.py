@@ -1,5 +1,5 @@
 from postacie.FREEDy import Freddy
-from postacie\BONNIE import Bonie
+from postacie.BONNIE import Bonie
 from postacie.CHICKA import Chicka
 from postacie.FOXY import Foxy
 from postacie.GUARD import Guard
